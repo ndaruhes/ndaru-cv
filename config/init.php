@@ -1,6 +1,6 @@
 <?php
-    // URL
-    define('BASEURL', 'http://localhost/Design/My%20CV/');
+// URL
+define('BASEURL', 'https://muhamad-ndaru.herokuapp.com/');
 ?>
 
 
