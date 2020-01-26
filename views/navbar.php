@@ -3,7 +3,7 @@
         <i class="fab fa-windows"></i>&nbsp; Menu
     </button>
 
-    <div class="btn bg-light shadow">
+    <div class="language-version btn bg-light shadow">
         <p>
             <a href="<?= BASEURL; ?>en" title="English">EN</a> | <a href="<?= BASEURL; ?>id" title="Indonesian">ID</a>
         </p>
