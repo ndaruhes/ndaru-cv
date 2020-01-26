@@ -6,29 +6,29 @@
         <div class="py-3 px-3 mb-4 bg-light">
             <div class="media d-flex align-items-center"><img src="<?= BASEURL; ?>assets/images/me.jpeg" alt="..." width="65" class="mr-3 rounded-circle shadow-sm">
                 <div class="media-body">
-                <h5 class="m-0">Muhamad Ndaru</h5>
-                <p class="font-weight-light text-muted mb-0">Student</p>
+                    <h5 class="m-0">Muhamad Ndaru</h5>
+                    <p class="font-weight-light text-muted mb-0">Student</p>
+                </div>
             </div>
         </div>
-    </div>
 
         <p class="text-gray font-weight-bold text-uppercase px-3 small pb-4 mb-0">Main</p>
 
         <ul class="nav flex-column bg-white mb-0">
             <li class="nav-item">
-                <a href="#home" class="nav-link text-dark"><i class="far fa-home mr-3"></i>Home</a>
+                <a href="#home" class="nav-link text-dark"><i class="fas fa-home mr-3"></i>Home</a>
             </li>
             <li class="nav-item">
-                <a href="#intro" class="nav-link text-dark"><i class="far fa-user-alt mr-3"></i>Intro</a>
+                <a href="#intro" class="nav-link text-dark"><i class="fas fa-user-alt mr-3"></i>Intro</a>
             </li>
             <li class="nav-item">
-                <a href="#skills" class="nav-link text-dark"><i class="far fa-lightbulb mr-3"></i>My Skils</a>
+                <a href="#skills" class="nav-link text-dark"><i class="fas fa-lightbulb mr-3"></i>My Skils</a>
             </li>
             <li class="nav-item">
-                <a href="#point" class="nav-link text-dark"><i class="far fa-paper-plane mr-3"></i>My Experiences</a>
+                <a href="#point" class="nav-link text-dark"><i class="fas fa-paper-plane mr-3"></i>My Experiences</a>
             </li>
             <li class="nav-item" title="Ndaru's Project">
-                <a href="https://www.instagram.com/ndaru.project/" target="_blank" class="nav-link text-dark"><i class="far fa-database mr-3"></i>My Projects</a>
+                <a href="https://www.instagram.com/ndaru.project/" target="_blank" class="nav-link text-dark"><i class="fas fa-database mr-3"></i>My Projects</a>
             </li>
         </ul>
 
