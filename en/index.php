@@ -18,10 +18,10 @@
     <div class="intro-background" id="home">
         <div class="container intro-inner">
             <div class="row">
-                <div class="col-xl-3 col-6 img-intro">
+                <div class="col-xl-3 col-6 img-intro" data-aos="fade-up">
                     <img src="<?= BASEURL; ?>assets/images/me.jpeg" alt="Muhamad Ndaru" class="rounded-circle shadow">
                 </div>
-                <div class="col-xl-9 col-6 text-intro">
+                <div class="col-xl-9 col-6 text-intro" data-aos="fade-down">
                     <p>Hello There,<br> I'm <b>Muhamad Ndaru Hestiafin</b>!</p>
                 </div>
             </div>
@@ -31,7 +31,7 @@
     <div id="particles-js"></div>
 
     <!-- About Me -->
-    <div class="container about-inner mt-5" id="intro">
+    <div class="container about-inner mt-5" id="intro" data-aos="fade-left">
         <div class="row">
             <div class="col-xl-6 about-img about-img-display">
                 <img src="<?= BASEURL; ?>assets/images/4fun.png" alt="Me For Fun">
@@ -52,7 +52,7 @@
     <!-- Skills -->
     <div class="container skills-inner" id="skills">
         <div class="row">
-            <div class="col-xl-6 skills-img">
+            <div class="col-xl-6 skills-img" data-aos="fade-up">
                 <img src="<?= BASEURL; ?>assets/images/monitor.png" alt="People and Monitor">
             </div>
             <div class="col-xl-6 skills-content">
