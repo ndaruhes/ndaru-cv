@@ -1,6 +1,6 @@
 <?php
 // URL
-define('BASEURL', 'https://muhamad-ndaru.herokuapp.com/');
+define('BASEURL', 'https://ndaruhes.herokuapp.com/');
 ?>
 
 
