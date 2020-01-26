@@ -18,10 +18,10 @@
     <div class="intro-background" id="home">
         <div class="container intro-inner">
             <div class="row">
-                <div class="col-xl-3 col-6 img-intro" data-aos="fade-up">
+                <div class="col-xl-3 col-6 img-intro">
                     <img src="<?= BASEURL; ?>assets/images/me.jpeg" alt="Muhamad Ndaru" class="rounded-circle shadow">
                 </div>
-                <div class="col-xl-9 col-6 text-intro" data-aos="fade-down">
+                <div class="col-xl-9 col-6 text-intro">
                     <p>Hello There,<br> I'm <b>Muhamad Ndaru Hestiafin</b>!</p>
                 </div>
             </div>

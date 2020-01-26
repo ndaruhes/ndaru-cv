@@ -1,6 +1,7 @@
 <?php require_once '../config/init.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
     <title>Muhamad Ndaru | Portofolio</title>
     <?php require_once '../views/css.php'; ?>
 </head>
+
 <body>
     <!-- Navbar -->
     <?php require_once '../views/navbar.php'; ?>
@@ -16,10 +18,10 @@
     <div class="intro-background" id="home">
         <div class="container intro-inner">
             <div class="row">
-                <div class="col-xl-3 col-6 img-intro" data-aos="fade-up">
+                <div class="col-xl-3 col-6 img-intro">
                     <img src="<?= BASEURL; ?>assets/images/me.jpeg" alt="Muhamad Ndaru" class="rounded-circle shadow">
                 </div>
-                <div class="col-xl-9 col-6 text-intro" data-aos="fade-down">
+                <div class="col-xl-9 col-6 text-intro">
                     <p>Halo, Apa Kabar!<br> Saya <b>Muhamad Ndaru Hestiafin</b>!</p>
                 </div>
             </div>
@@ -111,7 +113,7 @@
                             <p class="pt-2">Blogger</p>
                         </div>
                     </div>
-                    
+
                     <div class="col-xl-4 col-4 skill-spacing" data-aos="flip-left">
                         <div class="col-md-12 py-3 skill english">
                             <i class="fas fa-language fa-2x"></i>
@@ -178,4 +180,5 @@
 
     <?php require_once '../views/js.php'; ?>
 </body>
+
 </html>
