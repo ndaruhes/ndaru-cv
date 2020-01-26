@@ -1,6 +1,7 @@
 <?php require_once '../config/init.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
     <title>Muhamad Ndaru | Portfolio</title>
     <?php require_once '../views/css.php'; ?>
 </head>
+
 <body>
     <!-- Navbar -->
     <?php require_once '../views/navbar.php'; ?>
@@ -111,7 +113,7 @@
                             <p class="pt-2">Blogger</p>
                         </div>
                     </div>
-                    
+
                     <div class="col-xl-4 col-4 skill-spacing" data-aos="flip-left">
                         <div class="col-md-12 py-3 skill english">
                             <i class="fas fa-language fa-2x"></i>
@@ -154,8 +156,8 @@
         </div>
     </div>
 
-<!-- Footer -->
-<div class="container-fluid footer-inner">
+    <!-- Footer -->
+    <div class="container-fluid footer-inner">
         <div class="container footer-content">
             <div class="contact" data-aos="zoom-in-up">
                 <p class="contact-text"><b>I'm Ready</b>!! <br> Feel free to contact me <i class="far fa-smile ml-1"></i></p>
@@ -177,4 +179,5 @@
 
     <?php require_once '../views/js.php'; ?>
 </body>
+
 </html>

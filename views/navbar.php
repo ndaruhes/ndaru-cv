@@ -19,7 +19,7 @@
                 <a href="#home" class="nav-link text-dark"><i class="fas fa-home mr-3"></i>Home</a>
             </li>
             <li class="nav-item">
-                <a href="#intro" class="nav-link text-dark"><i class="fas fa-user-alt mr-3"></i>Intro</a>
+                <a href="#intro" class="nav-link text-dark"><i class="fas fa-user mr-3"></i>Intro</a>
             </li>
             <li class="nav-item">
                 <a href="#skills" class="nav-link text-dark"><i class="fas fa-lightbulb mr-3"></i>My Skils</a>
