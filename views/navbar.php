@@ -2,6 +2,13 @@
     <button type="button" class="btn btn-light hamburger-button my-4 ml-4 shadow">
         <i class="fab fa-windows"></i>&nbsp; Menu
     </button>
+
+    <div class="language-version btn bg-light shadow">
+        <p>
+            <a href="<?= BASEURL; ?>en" title="English">EN</a> | <a href="<?= BASEURL; ?>id" title="Indonesian">ID</a>
+        </p>
+    </div>
+
     <div class="vertical-nav bg-white" id="sidebar">
         <div class="py-3 px-3 mb-4 bg-light">
             <div class="media d-flex align-items-center"><img src="<?= BASEURL; ?>assets/images/me.jpeg" alt="..." width="65" class="mr-3 rounded-circle shadow-sm">
@@ -55,10 +62,4 @@
             </li>
         </ul>
     </div>
-</div>
-
-<div class="language-version btn bg-light shadow">
-    <p>
-        <a href="<?= BASEURL; ?>en" title="English">EN</a> | <a href="<?= BASEURL; ?>id" title="Indonesian">ID</a>
-    </p>
 </div>
