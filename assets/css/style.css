@@ -1,0 +1,454 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    /* background: #599fd9;
+    background: -webkit-linear-gradient(to right, #599fd9, #c2e59c);
+    background: linear-gradient(to right, #599fd9, #c2e59c); */
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #666;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #232323;
+}
+
+/* Bahan */
+.break {
+    clear: both;
+}
+
+/* End Bahan */
+
+/* Partikel */
+#particles-js {
+    position: absolute;
+    width: 100%;
+    top: 55vh;
+    height: 2400px;
+}
+
+/* End Partikel */
+
+/* Intro */
+.intro-background {
+    background: url('../images/home-background2.png') 100% 100% no-repeat;
+    background-size: cover;
+    height: 70vh;
+    position: relative;
+    z-index: 1;
+}
+
+.intro-inner {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transform: translate(0, 40%);
+}
+
+.img-intro {}
+
+.img-intro>img {
+    width: 100%;
+}
+
+.text-intro {
+    padding-left: 50px;
+    margin-top: 20px;
+}
+
+.text-intro>p {
+    font-family: calibri;
+    font-size: 55px;
+    color: white;
+}
+
+/* End Intro */
+
+
+/* About */
+.about-text {}
+
+.about-text>h3 {
+    font-size: 30px;
+    color: #60A4D5;
+    font-family: calibri;
+}
+
+.about-text>p {
+    font-size: 20px;
+    font-family: calibri;
+}
+
+.about-img {}
+
+.about-img-display {
+    display: none;
+}
+
+.about-img>img {
+    width: 100%;
+}
+
+/* End About */
+
+/* Skills */
+.skills-inner {
+    margin-top: 120px;
+}
+
+.skills-img {
+    padding-top: 50px;
+}
+
+.skills-img>img {
+    width: 100%;
+}
+
+.skills-content {}
+
+.skills-content>h3 {
+    font-size: 30px;
+    color: #60A4D5;
+    font-family: calibri;
+
+}
+
+.skill {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    padding: 7px 0;
+    margin-bottom: 20px;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.skill>p {
+    margin: 0;
+}
+
+.skill:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.ui-ux {
+    background: #4a69bd;
+}
+
+.laravel {
+    background: #FB503B;
+}
+
+.bootstrap {
+    background: #563D7C;
+}
+
+.php {
+    background: #5F82BA;
+}
+
+.git {
+    background: #F05133;
+}
+
+.adobe {
+    background: #FF0000;
+}
+
+.wordpress {
+    background: #444140;
+}
+
+.blogger {
+    background: #FF5722;
+}
+
+.english {
+    background: #ff7675;
+}
+
+/* End Skills */
+
+/* Point */
+.point-inner {
+    margin-top: 120px;
+}
+
+.point-content {
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 20px 30px 10px 30px;
+    box-sizing: border-box;
+}
+
+.point-content>p {
+    font-family: calibri;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+}
+
+.point-content ul>li {
+    list-style: none;
+    padding: 10px 0;
+    font-family: calibri;
+    font-size: 20px;
+    color: white;
+    border-top: 1px solid white;
+}
+
+.point-content ul>li:nth-child(1) {
+    border: none;
+}
+
+.experience-content {
+    background-image: linear-gradient(to right top, #9c88ff, #9884f9, #9481f2, #907dec, #8c7ae6);
+
+}
+
+.achievement-content {
+    background-image: linear-gradient(to right top, #fab1a0, #f5a18d, #ef917a, #e88067, #e17055);
+}
+
+/* End Point */
+
+/* Footer */
+.footer-inner {
+    background: url('../images/home-background3.png');
+    height: 80vh;
+    background-size: cover;
+    margin-top: 120px;
+    position: relative;
+    z-index: 998;
+}
+
+.contact {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 150px;
+    /* transform: translate(0, 450px); */
+}
+
+.contact-text {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.contact-button {
+    font-size: 25px;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.2);
+    padding: 13px 20px;
+    font-weight: bold;
+    transition: all 0.4s ease-in-out;
+    border-radius: 100%;
+}
+
+.contact-button:hover {
+    text-decoration: none;
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.2);
+    color: #ECF0F1;
+}
+
+.email {
+    background: #E75A4D;
+    color: #ECF0F1;
+}
+
+.whatsapp {
+    background: #29B200;
+    color: #ECF0F1;
+}
+
+.copyright-text {
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+/* End Footer */
+
+/* Back To Top */
+.back-to-top-btn {
+    color: #ecf0f1;
+    background: #666666;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 1000;
+    padding: 10px 20px;
+    font-size: 20px;
+    transition: 0.4s;
+}
+
+.back-to-top-btn:hover {
+    color: #ecf0f1;
+    background: #4a4a4a;
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* End Back To Top */
+@media screen and (max-width: 768px) {
+
+    /* Partikel */
+    #particles-js {
+        position: absolute;
+        width: 100%;
+        top: 40vh;
+        height: 2400px;
+    }
+
+    /* End Partikel */
+
+    /* Intro */
+    .intro-background {
+        height: 50vh;
+    }
+
+    .intro-inner {
+        transform: translate(0, 65%);
+    }
+
+    .text-intro {
+        padding-left: 0;
+        padding-top: 15px;
+        margin-top: 0;
+    }
+
+    .text-intro>p {
+        font-size: 20px;
+    }
+
+    /* End Intro */
+
+    /* About */
+    .about-text>h3 {
+        font-size: 25px;
+    }
+
+    .about-text>p {
+        font-size: 20px;
+    }
+
+    .about-img {
+        display: none;
+    }
+
+    .about-img-display {
+        display: block;
+    }
+
+    /* End About */
+
+    /* Skills */
+    .skills-inner {
+        margin-top: 30px;
+    }
+
+
+    .skills-img {
+        padding-top: 50px;
+    }
+
+    .skills-content>h3 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+
+    .skill-spacing {
+        padding: 0 7px;
+    }
+
+    .skill {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+
+    /* End Skill */
+
+    /* Point */
+    .point-inner {
+        margin-top: 30px;
+    }
+
+    .point-content {
+        padding: 10px 20px 0 20px;
+        margin-bottom: 30px;
+    }
+
+    .point-content>p {
+        font-size: 20px;
+    }
+
+    .point-content ul>li {
+        font-size: 17px;
+    }
+
+    /* End Point */
+
+    /* Footer */
+    .footer-inner {
+        height: 55vh;
+        margin-top: 30px;
+    }
+
+    .contact {
+        top: 70px;
+        padding: 0 5px;
+    }
+
+    .contact-text {
+        font-size: 25px;
+    }
+
+    .contact-button {
+        font-size: 17px;
+        padding: 5px 10px;
+
+    }
+
+    .copyright-text {
+        font-size: 17px;
+    }
+
+    /* End Footer */
+
+    /* Back To Top */
+    .back-to-top-btn {
+        color: #ecf0f1;
+        background: #666666;
+        position: fixed;
+        right: 15px;
+        bottom: 15px;
+        z-index: 1000;
+        padding: 10px 20px;
+        font-size: 20px;
+        transition: 0.4s;
+    }
+}
