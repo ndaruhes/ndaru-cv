@@ -38,8 +38,7 @@
             </div>
             <div class="col-xl-6 about-text mt-4">
                 <h3 class="mb-3">Short Profile About Me</h3>
-                <p>I'm <b>Muhamad Ndaru Hestiafin</b>. At the moment, i'am a vocational high school student at SMKN 2 Jakarta and owner of <a href="https://www.tukangilmu.com/">tukangilmu.com</a> blog site. I like to share, whether it's about my experience and skill what i have. I also like to challenge myself to do things that I find difficult to solve
-                    in order to change things around for the better.</p>
+                <p>I'm <b>Muhamad Ndaru Hestiafin</b>. At the moment, i'am a vocational high school student at SMKN 2 Jakarta and owner of <a href="https://www.tukangilmu.com/">tukangilmu.com</a> blog site. I like to share, whether it's about my experience and skill what i have. I also like to challenge myself to do things that i find it difficult to solve the problems related my future and the things i want to do to change things around for the better.</p>
                 <p>I also like to train my leadership style, socialization ability, and english ability to improve my soft skills.</p>
                 <p>Uhm, I also love youth and social leadership activities because it can train me to socialize and broaden my horizons about good leadership to achieve my goals.</p>
                 <p>Besides, for the entertainment i usually like make a random project (prototype), playing games, travel, and i'm so fucking like riding a motorcycle. That's Waww <i class="far fa-thumbs-up ml-1"></i></p>
