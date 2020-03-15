@@ -38,7 +38,8 @@
             </div>
             <div class="col-xl-6 about-text mt-4">
                 <h3 class="mb-3">Profil Singkat Tentang Saya</h3>
-                <p>Saya <b>Muhamad Ndaru Hestiafin</b>. Saat ini saya merupakan seorang siswa di SMKN 2 Jakarta dan pemilik situs blog <a href="https://www.tukangilmu.com/">tukangilmu.com</a>. Saya suka berbagi, entah itu pengalaman atau ilmu yang saya miliki. Saya juga suka menantang diri saya untuk melakukan hal yang menurut saya sulit untuk menyelesaikan masalah terkait masa depan saya dan unek2 yang ingin saya lakukan untuk mengubah keadaan sekitar menjadi lebih baik.</p>
+                <p>Saya <b>Muhamad Ndaru Hestiafin</b>. Saat ini saya merupakan seorang siswa di SMKN 2 Jakarta dan pemilik situs blog <a href="https://www.tukangilmu.com/">tukangilmu.com</a>. Saya suka berbagi, entah itu pengalaman atau ilmu yang saya miliki. Saya juga suka menantang diri saya untuk melakukan hal yang menurut saya sulit diselesaikan
+                    demi mengubah keadaan sekitar menjadi lebih baik.</p>
                 <p>Saya juga suka melatih gaya kepemimpinan saya dengan mengikuti kegiatan kepemimpinan pemuda
                     dan sosial, dengan tujuan agar kemampuan saya dalam memimpin suatu organisasi/kelompok dapat
                     berkembang dengan baik serta meningkatkan kemampuan bersosialisasi yang interak</p>
