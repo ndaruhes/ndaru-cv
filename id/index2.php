@@ -39,11 +39,8 @@
             <div class="col-xl-6 about-text mt-4">
                 <h3 class="mb-3">Profil Singkat Tentang Saya</h3>
                 <p>Saya <b>Muhamad Ndaru Hestiafin</b>. Saat ini saya merupakan seorang siswa di SMKN 2 Jakarta dan pemilik situs blog <a href="https://www.tukangilmu.com/">tukangilmu.com</a>. Saya suka berbagi, entah itu pengalaman atau ilmu yang saya miliki. Saya juga suka menantang diri saya untuk melakukan hal yang menurut saya sulit untuk menyelesaikan masalah terkait masa depan saya dan unek2 yang ingin saya lakukan untuk mengubah keadaan sekitar menjadi lebih baik.</p>
-                <p>Saya juga suka melatih gaya kepemimpinan saya dengan mengikuti kegiatan kepemimpinan pemuda
-                    dan sosial, dengan tujuan agar kemampuan saya dalam memimpin suatu organisasi/kelompok dapat
-                    berkembang dengan baik serta meningkatkan kemampuan bersosialisasi yang interak</p>
-                <p>Saya juga suka melatih diri saya di bidang bahasa terutama bahasa inggris,
-                    guna meningkatkan softskill yang dapat dipergunakan untuk mempermudah saya dalam meraih cita-cita</p>
+                <p>Saya juga suka melatih gaya kepemimpinan saya, kemampuan bersosialisasi yang interaktif, dan kemampuan bahasa inggris untuk meningkatkan soft skills.</p>
+                <p>Ohh iya, Saya juga mencintai kegiatan kepemimpinan pemuda dan sosial karena hal tersebut dapat melatih saya untuk bersosialisasi dan menambah wawasan saya tentang kepemimpinan yang baik untuk meraih cita-cita.</p>
                 <p>Selain itu, untuk hiburan biasanya saya suka membuat project acak (prototype), bermain game, travel, and i'm so fucking like riding a motorcycle. That's Waw <i class="far fa-thumbs-up ml-1"></i></p>
             </div>
             <div class="col-xl-6 about-img">
