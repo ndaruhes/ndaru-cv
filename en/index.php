@@ -57,7 +57,7 @@
                 <img src="<?= BASEURL; ?>assets/images/monitor.png" alt="People and Monitor">
             </div>
             <div class="col-xl-6 skills-content">
-                <h3 class="mb-4" data-aos="fade-left">Hard Skills That I Still Continue To Practice</h3>
+                <h3 class="mb-4" data-aos="fade-up">Hard Skills That I Still Continue To Practice</h3>
                 <div class="row">
                     <div class="col-xl-4 col-4 skill-spacing" data-aos="flip-left">
                         <div class="col-md-12 py-3 skill ui-ux">
