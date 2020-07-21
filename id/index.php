@@ -22,7 +22,7 @@
                     <img src="<?= BASEURL; ?>assets/images/me.jpeg" alt="Muhamad Ndaru" class="rounded-circle shadow">
                 </div>
                 <div class="col-xl-9 col-6 text-intro" data-aos="fade-down">
-                    <p>Halo, Apa Kabar!<br> Saya <b>Muhamad Ndaru Hestiafin</b>!</p>
+                    <p>Halo, Apa Kabs!<br> Saya <b>Muhamad Ndaru Hestiafin</b>!</p>
                 </div>
             </div>
         </div>
